@@ -13,6 +13,9 @@ This QA Retriever is built with usage of open-source tools only:
 - HuggingFace (embeddings and model)
 - Chroma (vector store)
 
+**Note**: Since Langchain is fast evolving, the QA Retriever might not work with the latest version.
+If you upgrade make sure to check the changes in the Langchain API and integration docs. 
+
 ## Requirements
 You need an account on HuggingFace to use the QA Retriever.
 You can create one here: https://huggingface.co/join
