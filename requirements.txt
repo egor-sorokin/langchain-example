@@ -1,0 +1,9 @@
+Chroma==0.2.0
+huggingface-hub==0.13.3
+langchain==0.0.198
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+tabulate
+unstructured==0.5.9
+bs4
+accelerate
