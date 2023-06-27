@@ -1,8 +1,10 @@
 ## Introduction
-
 This is a QA Retriever for the WCAG 2.1 standard.
 It is a tool that allows you to search for specific WCAG 2.1 success criteria 
-and retrieve the relevant information from the WCAG 2.0 standard.
+and retrieve the relevant information from the standard.
+
+**Note**: This is just a proof of concept and a starting point for further development.
+Since model itself is open-source, it's not guaranteed that it will retrieve the best results.
 
 **Note**: even though the WCAG 2.1 standard is used, the QA Retriever can be used 
 for any other website to retrieve data from. Make sure you are allowed to do so.
@@ -15,6 +17,7 @@ This QA Retriever is built with usage of open-source tools only:
 
 **Note**: Since Langchain is fast evolving, the QA Retriever might not work with the latest version.
 If you upgrade make sure to check the changes in the Langchain API and integration docs. 
+
 
 ## Requirements
 You need an account on HuggingFace to use the QA Retriever.
